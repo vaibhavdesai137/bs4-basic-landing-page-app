@@ -7,13 +7,5 @@
 5. Hosted at: https://bs4-basic-landing-page-app.herokuapp.com/
 
 # Components:
-* Bootstrap v4.0.0-alpha.2
-* Cover Page
-* Navigation
-* Cards With Fixed Sizes
-* Cards With Random Sizes
-* Carousel
-* Modals
-* Flex Display
-* Using "rem" instead of "px"
-* Mobile Optimization
+* Modified an ready-available template called "Album"
+* Link: http://v4-alpha.getbootstrap.com/examples/album/
