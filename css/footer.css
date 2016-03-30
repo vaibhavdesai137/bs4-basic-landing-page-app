@@ -1,82 +1,17 @@
-
 footer {
     background: #333;
     color: white;
-    padding: 10px;
-    height: 80px;
+    text-align: center;
     overflow: hidden;
-}
-
-footer div {
-    height: 60px;
-    position: relative;
-}
-
-footer ul {
-    padding-left: 20px;
-}
-
-footer li {
-    list-style: none;
-    float: left;
-    padding-right: 20px;
-    position: relative;
-    height: 60px;
-    margin-top: 15px; 
+    margin-top: 20px;
 }
 
 footer a {
+    margin: 15px 10px 15px 10px;
     color: white;
 }
 
 footer a:hover {
-    color: yellow !important
-}
-
-footer p {
-    font-size: 16px;
-    text-align: right;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-right: 20px;
-}
-
-footer i {
-    font-size: 30px;
-    vertical-align: middle;
-}
-
-footer .links {
-    min-width: 140px;
-    max-width: 140px;
-}
-
-/* For all other sizes except desktop */
-@media (max-width: 1199px) {
-
-    footer {
-        height: 120px;
-        text-align: center;
-    }
-
-    .social-links {
-        display: none;
-    }
-
-    footer ul {
-        display: inline-block;
-        text-align: center;
-    }
-    
-    footer .links {
-        min-width: 50px;
-        max-width: 50px;
-    }
-
-    footer p {
-        font-size: 18px;
-        text-align: center;
-        padding-top: 5px;
-    }
-
+    background-color: yellow !important;
+    color: #555 !important;
 }
